@@ -1,0 +1,43 @@
+.adv-item {
+    list-style: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.adv-item-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.adv-item-row-spaced {
+    justify-content: space-between;
+}
+
+.adv-item-name {
+    font-weight: 600;
+    color: royalblue;
+}
+
+.adv-item-img {
+    display: flex;
+    width: 100%;
+    max-height: 200px;
+    min-height: 200px;
+    object-fit: cover;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.adv-item-icon-like {
+    color: salmon;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24
+}

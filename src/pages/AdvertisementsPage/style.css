@@ -1,0 +1,11 @@
+.advs-list {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(250px, 1fr));
+    column-gap: 36px;
+    row-gap: 36px;
+}
+
+.pagination{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,10 @@
+.menu {
+    display: flex;
+    gap: 10px;
+    
+}
+
+.menu a{
+    color: #000;
+    text-decoration: none;
+}

@@ -1,0 +1,11 @@
+.layout-default {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.layout-content {
+    flex-grow: 1;
+    max-width: 1200px;
+    margin: 0 auto;
+}
