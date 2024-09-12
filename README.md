@@ -1,7 +1,7 @@
 Запустить:
-npm install
-npm run server
-npm start
+`npm install`
+`npm run server`
+`npm start`
 
 Проблемы:
 1. Мало времени. К сожалению, смог приступить к заданию только в понедельник.
